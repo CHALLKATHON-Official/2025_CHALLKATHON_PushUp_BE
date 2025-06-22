@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+
+# Build
+dist/
+build/
+
+# 환경변수
+.env
+.env.local
+
+# 로그파일
+*.log
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# IDE/Editor
+.vscode/
+.idea/
