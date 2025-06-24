@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "uuid": "^11.1.0"
+  },
+  "name": "life_simulator",
+  "version": "1.0.0",
+  "description": "이번 웹 프로젝트는 사용자가 가상의 인생을 1세부터 80세까지 살아보며,\r 시간이 흐를때마다 발생하는 이벤트에서 주어지는 선택지를 통해 사용자의 능력 수치를 변화시키고\r 그 결과에 따라 다양한 엔딩을 경험할 수 있도록 설계된 Life_Simulator 이다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHALLKATHON-Official/2025_CHALLKATHON_PushUp_FE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CHALLKATHON-Official/2025_CHALLKATHON_PushUp_FE/issues"
+  },
+  "homepage": "https://github.com/CHALLKATHON-Official/2025_CHALLKATHON_PushUp_FE#readme"
+}
